@@ -1,7 +1,7 @@
 
 # Tell Me More ┊ Estadías UTXJ
 
-
+![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/logo1.jpeg)
 
 
 
@@ -11,12 +11,12 @@
 
 [TOC]
 
-#Objetivo
+# Objetivo
 Nuestro principal objetivo es dotar de información que ayude a los alumnos para la toma de decisiones al elegir el lugar donde realizarán sus estadías, todo esto a través de aportes de otros alumnos y exalumnos quienes ya hayan pasado por este proceso en dichas empresas o instituciones, quienes dando sus testimonios, experiencias y consejos, proveerán información de primera mano a aquellos buscando una opción de estadía y ayudándolos así a tener una mejor idea de cómo es la dinámica de las empresas en las que aspiran realizar dicho proceso.
 
-#Integrantes 
+# Integrantes 
 
-**  Seguridad en el Desarollo de Aplicaciones ▕  8° "A" IDGS**  
+**Seguridad en el Desarollo de Aplicaciones ▕  8° "A" IDGS**  
 - Salim Rafael Castro Ortíz
 - Flor Sarai Santiago Leonardo
 - María José Segovia Santamaría
@@ -27,7 +27,7 @@ Nuestro principal objetivo es dotar de información que ayude a los alumnos para
 		  
 		  
 
-#Tipos de usuarios
+# Tipos de usuarios
 ### Visitante
 > Es el usuario que ingresa al sitio sin identificarse (loguearse), por ello no puede realizar posts, únicamente puede visualizar el contenido.
 - Ingresar al sitio
@@ -51,14 +51,14 @@ Habrá un registro a través de correo electrónico, para los usuarios que desea
 
 ------------
 
-**POST DE EXPERIENCIAS: **
+**POST DE EXPERIENCIAS:**
 
 La aplicación tiene como principal funcionalidad contar experiencias de diferentes estudiantes de la Universidad Tecnológica de Xicotepec de Juárez en sus estadías, a través de un portal donde se mostrarán de forma ordenada su post y el cual podrán ser visualizados por otros usuarios, creando de esta manera una comunidad de experiencias para la comunidad estudiantil.
 Ayudando así a otros usuarios conocer el panorama esperado al realizar su estadía de nivel TSU e Ingeniería. 
 
 ------------
 
-**ELIMINAR/MODIFICAR: **
+**ELIMINAR/MODIFICAR:**
 
 Dentro de la aplicación el usuario tendrá el privilegio de eliminar el post o bien modificarlo para posteriormente postearlo de nueva cuenta.
 Sin embargo, el administrador podrá eliminar los posts que no cumplan con las políticas de convivencia de la aplicación sin solicitar permisos del autor del post.
@@ -84,7 +84,7 @@ TypeScript es un lenguaje para JavaScript a escala de aplicación. TypeScript ag
 ------------
 
 
-**BOOSTRAP: **
+**BOOSTRAP:**
 
 Para el maquetado y diseño haremos uso de las herramientas de Bootstrap ya que al ser compatible con la mayoría de los navegadores nos dará ventaja sobre otros y nos permitirá que nuestra aplicación tenga una mejor vista y estructura. 
 

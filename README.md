@@ -11,12 +11,12 @@
 
 [TOC]
 
-#Objetivo
+# Objetivo
 Nuestro principal objetivo es dotar de información que ayude a los alumnos para la toma de decisiones al elegir el lugar donde realizarán sus estadías, todo esto a través de aportes de otros alumnos y exalumnos quienes ya hayan pasado por este proceso en dichas empresas o instituciones, quienes dando sus testimonios, experiencias y consejos, proveerán información de primera mano a aquellos buscando una opción de estadía y ayudándolos así a tener una mejor idea de cómo es la dinámica de las empresas en las que aspiran realizar dicho proceso.
 
-#Integrantes 
+# Integrantes 
 
-**  Seguridad en el Desarollo de Aplicaciones ▕  8° "A" IDGS**  
+**  *Seguridad en el Desarollo de Aplicaciones ▕  8° "A" IDGS**  
 - Salim Rafael Castro Ortíz
 - Flor Sarai Santiago Leonardo
 - María José Segovia Santamaría
@@ -27,7 +27,7 @@ Nuestro principal objetivo es dotar de información que ayude a los alumnos para
 		  
 		  
 
-#Tipos de usuarios
+# Tipos de usuarios
 ### Visitante
 > Es el usuario que ingresa al sitio sin identificarse (loguearse), por ello no puede realizar posts, únicamente puede visualizar el contenido.
 - Ingresar al sitio
@@ -44,7 +44,7 @@ Nuestro principal objetivo es dotar de información que ayude a los alumnos para
 - Administrará contenido (visualizar, crear o eliminar posts de los usuarios)
 		  
 		  
-#Funcionalidades
+# Funcionalidades
 **REGISTRO:** 
 
 Habrá un registro a través de correo electrónico, para los usuarios que desean hacer uso de la aplicación posteando sus experiencias; ellos podrán postear, al igual que modificar y eliminar los posts que hayan realizado una vez completado el registro exitosamente.
@@ -67,7 +67,7 @@ Sin embargo, el administrador podrá eliminar los posts que no cumplan con las p
 
 
 
-#Entorno de desarrollo
+# Entorno de desarrollo
  Un entorno de desarrollo adecuado nos permitirá hacer el trabajo más cómodo y de manera más precisa, es por eso que para la realización de este proyecto se opto por usar las siguientes herramientas:
 
 **ANGULAR:**

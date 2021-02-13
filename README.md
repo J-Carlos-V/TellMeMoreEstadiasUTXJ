@@ -5,11 +5,7 @@
 
 
 
-**Tabla de contenidos**
 
-[TOCM]
-
-[TOC]
 
 # Objetivo
 Nuestro principal objetivo es dotar de información que ayude a los alumnos para la toma de decisiones al elegir el lugar donde realizarán sus estadías, todo esto a través de aportes de otros alumnos y exalumnos quienes ya hayan pasado por este proceso en dichas empresas o instituciones, quienes dando sus testimonios, experiencias y consejos, proveerán información de primera mano a aquellos buscando una opción de estadía y ayudándolos así a tener una mejor idea de cómo es la dinámica de las empresas en las que aspiran realizar dicho proceso.

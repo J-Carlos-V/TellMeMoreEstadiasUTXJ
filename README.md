@@ -40,7 +40,7 @@ Nuestro principal objetivo es dotar de información que ayude a los alumnos para
 - Administrará contenido (visualizar, crear o eliminar posts de los usuarios)
 		  
 		  
-#Funcionalidades
+# Funcionalidades
 **REGISTRO:** 
 
 Habrá un registro a través de correo electrónico, para los usuarios que desean hacer uso de la aplicación posteando sus experiencias; ellos podrán postear, al igual que modificar y eliminar los posts que hayan realizado una vez completado el registro exitosamente.

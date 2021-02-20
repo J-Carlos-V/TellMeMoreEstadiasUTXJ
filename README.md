@@ -63,15 +63,19 @@ Sin embargo, el administrador podrá eliminar los posts que no cumplan con las p
 
 
 
-#Entorno de desarrollo
+# Entorno de desarrollo
  Un entorno de desarrollo adecuado nos permitirá hacer el trabajo más cómodo y de manera más precisa, es por eso que para la realización de este proyecto se opto por usar las siguientes herramientas:
 
-**ANGULAR:**
+ ### Backend
+Por la parte del Backend utilizaremos el servicio de Node Js en conjunto con el lenguaje de TypeScript para la ejecución del lado del servidor, además de ocupar las configuraciones y funcionalidades que nos brinda el framework Express.js, con estas herramientas interactuaremos con la base de datos SQL la cual será gestionada por MySQL en su versión 8.0.22.
 
-Este será el framework con el que trabajaremos. Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC (Modelo-Vista-Controlador) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones.
+![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/BackendTMM.jpg)
+
+**NODEJS:**
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación JavaScript. Para nuestro proyecto lo utilizaremos como servidor.
 
 ------------
-
 
 **TYPESCRIPT:**
 
@@ -79,6 +83,22 @@ TypeScript es un lenguaje para JavaScript a escala de aplicación. TypeScript ag
 
 ------------
 
+### Base de Datos
+Para la gestión de la base de datos utilizaremos una base de datos SQL, por la que estaremos trabajando con MySQL en la versión 8.0.22.
+También utilizaremos la herramienta visual de diseño MySQL Workbench para el modelado y gestión de la base de datos, por lo cual el modelo de Entidad Relación como primera propuesta es la siguiente:
+
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Model_db_TellMeMore.png)
+
+
+El diccionario de datos es el siguiente:
+
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Diccionario_db_TellMeMore.png)
+
+**ANGULAR:**
+
+Este será el framework con el que trabajaremos. Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC (Modelo-Vista-Controlador) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones.
+
+------------
 
 **BOOSTRAP:**
 
@@ -87,11 +107,6 @@ Para el maquetado y diseño haremos uso de las herramientas de Bootstrap ya que 
 ------------
 
 
-**NODEJS:**
-
-Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación JavaScript. Para nuestro proyecto lo utilizaremos como servidor.
-
-------------
 
 
 **VISUAL STUDIO CODE:**

@@ -100,6 +100,9 @@ El entorno donde vamos a programar nuestra aplicación es visual studio code ya 
 
 ------------
 
+# WIREFRAME
+
+
 
 
 

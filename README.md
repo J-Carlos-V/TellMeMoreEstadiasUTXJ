@@ -63,32 +63,19 @@ Sin embargo, el administrador podrá eliminar los posts que no cumplan con las p
 
 
 
-# Entorno de desarrollo
+#Entorno de desarrollo
  Un entorno de desarrollo adecuado nos permitirá hacer el trabajo más cómodo y de manera más precisa, es por eso que para la realización de este proyecto se opto por usar las siguientes herramientas:
- 
- ### Backend
- Por la parte del Backend utilizaremos el servicio de Node Js en conjunto con el lenguaje de TypeScript para la ejecución del lado del servidor, además de ocupar las configuraciones y funcionalidades que nos brinda el framework Express.js, con estas herramientas interactuaremos con la base de datos SQL la cual será gestionada por MySQL en su versión 8.0.22.
- 
- ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/BackendTMM.jpg)
- 
-**TYPESCRIPT:**
-
-TypeScript es un lenguaje para JavaScript a escala de aplicación. TypeScript agrega tipos opcionales a JavaScript que admiten herramientas para aplicaciones JavaScript a gran escala para cualquier navegador, para cualquier host y en cualquier sistema operativo. TypeScript se compila en JavaScript legible y basado en estándares. Se utilizará debido a que es el lenguaje principal de programación de Angular.
-
-------------
-
-**NODEJS:**
-
-Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación JavaScript. Para nuestro proyecto lo utilizaremos como servidor.
-
-------------
-
-### Base de Datos
-
 
 **ANGULAR:**
 
 Este será el framework con el que trabajaremos. Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC (Modelo-Vista-Controlador) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones.
+
+------------
+
+
+**TYPESCRIPT:**
+
+TypeScript es un lenguaje para JavaScript a escala de aplicación. TypeScript agrega tipos opcionales a JavaScript que admiten herramientas para aplicaciones JavaScript a gran escala para cualquier navegador, para cualquier host y en cualquier sistema operativo. TypeScript se compila en JavaScript legible y basado en estándares. Se utilizará debido a que es el lenguaje principal de programación de Angular.
 
 ------------
 
@@ -100,12 +87,25 @@ Para el maquetado y diseño haremos uso de las herramientas de Bootstrap ya que 
 ------------
 
 
+**NODEJS:**
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación JavaScript. Para nuestro proyecto lo utilizaremos como servidor.
+
+------------
+
 
 **VISUAL STUDIO CODE:**
 
 El entorno donde vamos a programar nuestra aplicación es visual studio code ya que es un editor de código gratuito y de código abierto e incluye soporte para depuración, control GIT integrado, resaltado de sintaxis, autocompletado con Intellisense y refactorización de código, es una buena opción por lo ligero y simple que es y las utilidades que aporta, además la cantidad de extensiones que permite personalizar totalmente el entorno y mejoran la experiencia a la hora de desarrollar cualquier aplicación Angular.
 
 ------------
+
+# WireFrame
+
+Esta herramienta nos sirve como guia visual de la aplicación, para tener un mejor panorama de como sera la aplicación cuando ya este terminada, son un recurso de gran valor en el desarrollo de aplicaciones, donde entran en juego la interfaz de usuario (UI) y la experiencia de usuario (UX) en las primeras etapas del diseño de aplicaciones y páginas web, y cómo el software logra que todo sea más fácil, rápido y eficiente.
+Para este proyecto se utilizó Balsamiq una de las mejores herramientas para crear prototipos, bocetos o wireframes.
+
+
 
 
 

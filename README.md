@@ -107,7 +107,7 @@ Para este proyecto se utilizó Balsamiq una de las mejores herramientas para cre
 
 **Página Inicial**
 
-La Pagina inicial contará con una barra de navegación y en el centro el Logo, un boton para Login de los Usuarios, y el contenedor donde se mostrará todas las experiencias expresadas por los usuarios.
+La Pagina inicial contará con una barra de navegación y en el centro el Logo, un boton para Login de los Usuarios, y el contenedor donde se mostrará todas las experiencias expresadas por los usuarios y un footer mismo que se replicara junto con el header en los otros apartados.
 
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime.jpeg)
 
@@ -128,10 +128,12 @@ Ahora bien si el usuario no tiene una Cuenta en la aplicación y quiere hacer us
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime3.jpeg)
  
  **Página Portal de Experiencias**
- 
+ En este portal el usuario tendra una caja de texto donde escribira su experiencia en la empresa donde realizo su estadia, un boton de publicación, eliminación y otro donde podra modificar la experiencia publicada.
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
  
  **Calificación**
+ La aplicación tendra un apartado donde se podra calificar la empresa donde se realizo la estadia, de acuerdo a la experiencia del alumno.
+ 
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime5.jpeg)	
  
 	

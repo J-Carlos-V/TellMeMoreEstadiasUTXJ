@@ -107,21 +107,29 @@ Para este proyecto se utilizó Balsamiq una de las mejores herramientas para cre
 
 **Página Inicial**
 
+La Pagina inicial contará con una barra de navegación y en el centro el Logo, un boton para Login de los Usuarios, y el contenedor donde se mostrará todas las experiencias expresadas por los usuarios.
+
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime.jpeg)
 
 **Login**
+
+Para Compartir Una Experiencia sera necesario loguearse en la aplicación, por ello por medio de un boton nos enlazaremos a la pagina donde habra un formulario donde nos solicitaran correo electronico y contraseña para iniciar sesión y tener acceso a mayor funcionalidades.
 
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime1.jpeg)
 
 **Registro**
 
+Ahora bien si el usuario no tiene una Cuenta en la aplicación y quiere hacer uso de ella es necesario se registre, en la ventana de Registro habrá tres cajas de texto donde se solicitan 3 datos personales del usuario, su nombre, e-mail y contraseña, esos datos seran enviados a la base de datos por medio de un botón.
+
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime2.jpeg)
  
  **Usuario**
+ 
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime3.jpeg)
  
  **Página Portal de Experiencias**
-  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
+ 
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
  
  **Calificación**
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime5.jpeg)	

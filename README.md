@@ -106,21 +106,24 @@ Esta herramienta nos sirve como guia visual de la aplicación, para tener un mej
 Para este proyecto se utilizó Balsamiq una de las mejores herramientas para crear prototipos, bocetos o wireframes.
 
 **Página Inicial**
+
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime.jpeg)
 
-**Página Inicial**
+**Login**
+
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime1.jpeg)
 
-**Página Inicial**
+**Registro**
+
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime2.jpeg)
  
- **Página Inicial**
+ **Usuario**
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime3.jpeg)
  
- **Página Inicial**
+ **Página Portal de Experiencias**
   ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
  
- **Página Inicial**
+ **Calificación**
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime5.jpeg)	
  
 	

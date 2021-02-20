@@ -131,7 +131,8 @@ Ahora bien si el usuario no tiene una Cuenta en la aplicación y quiere hacer us
  En este portal el usuario tendra una caja de texto donde escribira su experiencia en la empresa donde realizo su estadia, un boton de publicación, eliminación y otro donde podra modificar la experiencia publicada.
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
  
- **-Calificación**
+ **-Calificación**  ![]( https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/estrellas.jpg)	
+ 
  La aplicación tendra un apartado donde se podra calificar la empresa donde se realizo la estadia, de acuerdo a la experiencia del alumno.
  
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime5.jpeg)	

@@ -125,11 +125,13 @@ Ahora bien si el usuario no tiene una Cuenta en la aplicación y quiere hacer us
  
  **-Usuario**
  
+ En esta ventana se registrara usuario y no contara con todas las funcionalidades, es un invitado al portal.
+ 
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime3.jpeg)
  
  **-Página Portal de Experiencias**
  
- En este portal el usuario tendra una caja de texto donde escribira su experiencia en la empresa donde realizo su estadia, un boton de publicación, eliminación y otro donde podra modificar la experiencia publicada.
+ En este portal el usuario tendra una caja de texto donde escribira su experiencia y la empresa donde realizo su estadia, un boton de publicación, eliminación y otro donde podra modificar la experiencia publicada.
  
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
  

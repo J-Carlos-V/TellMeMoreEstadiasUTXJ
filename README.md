@@ -105,7 +105,7 @@ El entorno donde vamos a programar nuestra aplicación es visual studio code ya 
 Esta herramienta nos sirve como guia visual de la aplicación, para tener un mejor panorama de como sera la aplicación cuando ya este terminada, son un recurso de gran valor en el desarrollo de aplicaciones, donde entran en juego la interfaz de usuario (UI) y la experiencia de usuario (UX) en las primeras etapas del diseño de aplicaciones y páginas web, y cómo el software logra que todo sea más fácil, rápido y eficiente.
 Para este proyecto se utilizó Balsamiq una de las mejores herramientas para crear prototipos, bocetos o wireframes.
 
-!https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/wireframe.jpeg
+![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/wireframe.jpeg)
 
 
 

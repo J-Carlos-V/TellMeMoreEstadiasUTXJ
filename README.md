@@ -94,6 +94,8 @@ El diccionario de datos es el siguiente:
 
  ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Diccionario_db_TellMeMore.png)
 
+ ### Frontend
+
 **ANGULAR:**
 
 Este será el framework con el que trabajaremos. Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC (Modelo-Vista-Controlador) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones.
@@ -108,7 +110,7 @@ Para el maquetado y diseño haremos uso de las herramientas de Bootstrap ya que 
 
 
 
-
+### Otras Herramientas
 **VISUAL STUDIO CODE:**
 
 El entorno donde vamos a programar nuestra aplicación es visual studio code ya que es un editor de código gratuito y de código abierto e incluye soporte para depuración, control GIT integrado, resaltado de sintaxis, autocompletado con Intellisense y refactorización de código, es una buena opción por lo ligero y simple que es y las utilidades que aporta, además la cantidad de extensiones que permite personalizar totalmente el entorno y mejoran la experiencia a la hora de desarrollar cualquier aplicación Angular.

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TellMeMoreEstadiasUTXJ"
+    }
+  },
+  "defaultProject": "TellMeMoreEstadiasUTXJ",
+  "cli": {
+    "analytics": "6daffcb9-8c24-4a3b-85bc-98ae36af66d3"
+  }
 }

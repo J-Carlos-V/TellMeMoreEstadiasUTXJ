@@ -6,7 +6,7 @@ import { User } from '../entity/User';
 
  //router
  //Get all users
- router.get('/', UserController.getAll),
+ router.get('/', UserController.getAll);
 //get one user
  router.get('/:id', UserController.getById);
  //get create user

@@ -1,25 +1,25 @@
 import { getRepository } from 'typeorm';
 import { Request, response, Response } from 'express';
-import { User } from '../entity/User';
+import { tb_usuarios } from '../entity/tb_usuarios';
 
 class AuthController{
     static login = async (req: Request, res: Response)=>{
-        const {username, password} = req.body;
+        const {Email, Contrasena} = req.body;
 
-        if (!(username && password)) {
+        if (!(Email && Contrasena)) {
             res.status(400).json({message: 'Username & Pasword are required'});
         }
-        const userRepository = getRepository(User);
-        let user : User;
+        const userRepository = getRepository(tb_usuarios);
+        let usuario : tb_usuarios;
 
 
         try {
-            user = await userRepository.findOneOrFail({where:{username}})
+            usuario = await userRepository.findOneOrFail({where:{Email}})
         } catch (e) {
             return res.status(400).json({message: 'Usuario o contraseña incorrecta'});
         }
 
-        res.send(user)
+        res.send(usuario)
     }
 }
 export default AuthController

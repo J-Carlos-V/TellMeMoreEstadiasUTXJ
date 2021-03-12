@@ -12,8 +12,7 @@ export enum UsuarioTipo{
     VISIT = "Visitante"
 }
 @Entity()
-@Unique(['username'])
-export class User {
+export class tb_usuarios {
 
     @PrimaryGeneratedColumn()
     id: number;
@@ -22,7 +21,7 @@ export class User {
         type: "int",
         nullable: false,
     })
-    @MinLength(6)
+    
     Matricula: number;
 
     @Column({
@@ -30,7 +29,7 @@ export class User {
         length: 60,
         nullable: false
     })
-    @MinLength(6)
+    
     Nombre: string;
 
     @Column({
@@ -38,7 +37,7 @@ export class User {
         length: 45,
         nullable: false
     })
-    @MinLength(6)
+    
     Apellido_Paterno: string;
 
     @Column({
@@ -85,9 +84,6 @@ export class User {
     })
     ImagenU: string;
 
-    @Column()
-    @MinLength(6)
-    username: string;
 
 
 

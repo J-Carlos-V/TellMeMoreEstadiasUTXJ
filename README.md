@@ -1,7 +1,7 @@
 
 # Tell Me More ┊ Estadías UTXJ
 
-![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/logo1.jpeg)
+![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/logo1.jpeg)
 
 
 
@@ -69,7 +69,7 @@ Sin embargo, el administrador podrá eliminar los posts que no cumplan con las p
  ### Backend
 Por la parte del Backend utilizaremos el servicio de Node Js en conjunto con el lenguaje de TypeScript para la ejecución del lado del servidor, además de ocupar las configuraciones y funcionalidades que nos brinda el framework Express.js, con estas herramientas interactuaremos con la base de datos SQL la cual será gestionada por MySQL en su versión 8.0.22.
 
-![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/BackendTMM.jpg)
+![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/BackendTMM.jpg)
 
 **NODEJS:**
 
@@ -87,12 +87,12 @@ TypeScript es un lenguaje para JavaScript a escala de aplicación. TypeScript ag
 Para la gestión de la base de datos utilizaremos una base de datos SQL, por la que estaremos trabajando con MySQL en la versión 8.0.22.
 También utilizaremos la herramienta visual de diseño MySQL Workbench para el modelado y gestión de la base de datos, por lo cual el modelo de Entidad Relación como primera propuesta es la siguiente:
 
- ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Model_db_TellMeMore.png)
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/Model_db_TellMeMore.png)
 
 
 El diccionario de datos es el siguiente:
 
- ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Diccionario_db_TellMeMore.png)
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/FrontendDiccionario_db_TellMeMore.png)
 
  ### Frontend
 
@@ -126,7 +126,7 @@ Para este proyecto se utilizó Balsamiq una de las mejores herramientas para cre
 
 La Pagina inicial contará con una barra de navegación y en el centro el Logo, un boton para Login de los Usuarios, y el contenedor donde se mostrará todas las experiencias expresadas por los usuarios y un footer mismo que se replicara junto con el header en los otros apartados.
 
- ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime.jpeg)
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/WireFrime.jpeg)
 
 **-Login**
 
@@ -138,7 +138,7 @@ Para Compartir Una Experiencia sera necesario loguearse en la aplicación, por e
 
 Ahora bien si el usuario no tiene una Cuenta en la aplicación y quiere hacer uso de ella es necesario se registre, en la ventana de Registro habrá tres cajas de texto donde se solicitan 3 datos personales del usuario, su nombre, e-mail y contraseña, esos datos seran enviados a la base de datos por medio de un botón.
 
-![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime2.jpeg)
+![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/WireFrime2.jpeg)
  
  **-Usuario**
  
@@ -150,7 +150,7 @@ Ahora bien si el usuario no tiene una Cuenta en la aplicación y quiere hacer us
  
  En este portal el usuario tendra una caja de texto donde escribira su experiencia y la empresa donde realizo su estadia, un boton de publicación, eliminación y otro donde podra modificar la experiencia publicada.
  
- ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/WireFrime4.jpeg)
+ ![](https://github.com/J-Carlos-V/TellMeMoreEstadiasUTXJ/blob/main/Frontend/WireFrime4.jpeg)
  
  **-Calificación**
  

@@ -41,8 +41,9 @@ export class UserController {
         usuario.ImagenU = ImagenU;
 
 
-        //validacion 
-        const errors = await validate(usuario);
+        //validacion
+        const validationOpt = {validationError:{target: false, value: false}}; 
+        const errors = await validate(usuario, validationOpt);
 
         if (errors.length > 0 ){
             return res.status(400).json(errors);
@@ -52,6 +53,7 @@ export class UserController {
 
         const userRepository = getRepository(tb_usuarios)
         try {
+            usuario.hashPassword();
             await userRepository.save(usuario);
         } catch (e) {
             return res.status(409).json({ massage: 'El Usuario ya Existe'})
@@ -87,8 +89,9 @@ export class UserController {
 
 
 
-
-        const errors = await validate(tb_usuarios);
+        const validationOpt = {validationError:{target: false, value: false}};
+        const errors = await validate(usuario, validationOpt);
+        console.log(errors.length)
         if (errors.length > 0) {
             return res.status(400).json(errors); 
         }
@@ -96,6 +99,7 @@ export class UserController {
         //try to save user
 
         try {
+            usuario.hashPassword();
             await userRepository.save(usuario);
         } catch (e) {
             return res.status(409).json({message: 'El usuario ya Existe'});

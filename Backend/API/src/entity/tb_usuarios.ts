@@ -1,6 +1,6 @@
 import {Entity, PrimaryGeneratedColumn,Unique,CreateDateColumn, UpdateDateColumn, Column, IsNull} from "typeorm";
 import {MinLength, IsNotEmpty, IsEmail} from 'class-validator';
-
+import * as bcrypt from 'bcryptjs';
 export enum UsuarioGenero{
     FEMENINO = "F",
     MASCULINO = "M"
@@ -23,12 +23,13 @@ export class tb_usuarios {
     })
     
     Matricula: number;
-
+   
     @Column({
         type: "varchar",
         length: 60,
         nullable: false
     })
+    @IsNotEmpty()
     
     Nombre: string;
 
@@ -64,7 +65,7 @@ export class tb_usuarios {
 
     @Column({
         type: "varchar",
-        length: 50,
+        length: 255,
         nullable: false
     })
     Contrasena: string;
@@ -84,7 +85,14 @@ export class tb_usuarios {
     })
     ImagenU: string;
 
+    hashPassword(): void{
+        const salt = bcrypt.genSaltSync(10);
+        this.Contrasena = bcrypt.hashSync(this.Contrasena, salt);
+    }
 
+    checkPassword(Contrasena: string): boolean{
+        return bcrypt.compareSync(Contrasena, this.Contrasena);
+    }
 
 
 }
